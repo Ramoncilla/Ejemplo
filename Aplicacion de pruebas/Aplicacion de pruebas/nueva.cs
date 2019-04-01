@@ -8,5 +8,6 @@ namespace Aplicacion_de_pruebas
 {
     class nueva
     {
+        int hola, k, ase;
     }
 }
